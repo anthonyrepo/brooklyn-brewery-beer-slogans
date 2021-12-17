@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import Quote from './components/Quote'
+import { useState } from 'react'
+import './App.scss';
+import BeerInfo from './beer_info.json'
 
-function App() {
+const App = () => {
+  let index = Math.floor(Math.random() * BeerInfo.length);
+  const [beers, setBeers] = useState([BeerInfo[index]]);
+  const [backgroundColor, setBackgroundColor] = useState(BeerInfo[index].backgroundColor);
+
+  const onClick = () => {
+    let index = Math.floor(Math.random() * BeerInfo.length);
+    setBeers([BeerInfo[index], ...beers]);
+    setBackgroundColor(BeerInfo[index].backgroundColor);
+  }
+
+  let key = 0;
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{backgroundColor: backgroundColor}}>
+      <h1 id="title" style={{color: beers[0].cardColor}}>Brooklyn Brewery Beer Slogans</h1>
+      <button style={{backgroundColor: beers[0].cardColor, color: beers[0].textColor}} onClick={onClick}>New Quote</button>
+      {beers.map((item) =>
+        <Quote  key={key++}
+                info={item} />
+      )}
     </div>
   );
 }

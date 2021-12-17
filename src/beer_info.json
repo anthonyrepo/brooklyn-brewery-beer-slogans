@@ -1,0 +1,205 @@
+[
+    {
+        "name": "Brooklyn Pulp Art Hazy IPA",
+        "slogan": "BEER? ART? BOTH.",
+        "backgroundColor": "#F97FB5",
+        "cardColor": "#E70000",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Bel Air Sour",
+        "slogan": "PARTY TARTLY",
+        "backgroundColor": "#F6CED7",
+        "cardColor": "#40C0C0",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Lager",
+        "slogan": "A LOUDER LAGER",
+        "backgroundColor": "#009844",
+        "cardColor": "#000000",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Bel Air Sour Key Lime",
+        "slogan": "PARTY TARTLY",
+        "backgroundColor": "#BACE4C",
+        "cardColor": "#40C0C0",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Defender IPA",
+        "slogan": "DEFEND BEER",
+        "backgroundColor": "#07526C",
+        "cardColor": "#D01F26",
+        "textColor": "#E6E1CF"
+    },
+    {
+        "name": "Brooklyn East IPA",
+        "slogan": "WHERE BRITISH TRADITION MEETS AMERICAN INNOVATION",
+        "backgroundColor": "#E43D40",
+        "cardColor": "#3B964F",
+        "textColor": "#FEFEFE"
+    },
+    {
+        "name": "Brooklyn Sorachi Ace Saison",
+        "slogan": "POWERED BY HOPS",
+        "backgroundColor": "#C9B166",
+        "cardColor": "#A03123",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Special Effects Hoppy Amber",
+        "slogan": "DO MORE",
+        "backgroundColor": "#FCB426",
+        "cardColor": "#4E61AD",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Special Effects IPA",
+        "slogan": "DO MORE",
+        "backgroundColor": "#F2D627",
+        "cardColor": "#00574F",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Bodega Run IPA",
+        "slogan": "EVERYTHING YOU NEED",
+        "backgroundColor": "#EFD013",
+        "cardColor": "#171796",
+        "textColor": "#DBD5B5"
+    },
+    {
+        "name": "Brooklyn Summer Ale",
+        "slogan": "SUMMER STARTS HERE",
+        "backgroundColor": "#FEC52E",
+        "cardColor": "#EA1C2D",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Oktoberfest",
+        "slogan": "PROST, OKTOBERFEST!",
+        "backgroundColor": "#ababd1",
+        "cardColor": "#edbf4d",
+        "textColor": "#3d67a5"
+    },
+    {
+        "name": "Post Road Pumpkin Ale",
+        "slogan": "FROM THE PATCH",
+        "backgroundColor": "#c9b166",
+        "cardColor": "#90292b",
+        "textColor": "#ffffff"
+    },
+    {
+        "name": "Brooklyn Winter IPA",
+        "slogan": "SLEDDER'S CHOICE",
+        "backgroundColor": "#68c5cf",
+        "cardColor": "#c40001",
+        "textColor": "#ffffff"
+    },
+    {
+        "name": "Black Chocolate Stout",
+        "slogan": "THE WORLD FAMOUS RUSSIAN IMPERIAL STOUT",
+        "backgroundColor": "#c9b166",
+        "cardColor": "#000000",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Black Ops",
+        "slogan": "BROOKLYN BLACK OPS IS A LEGEND",
+        "backgroundColor": "#d11f3a",
+        "cardColor": "#000000",
+        "textColor": "#a3a5a8"
+    },
+    {
+        "name": "Brooklyn Spritz",
+        "slogan": "EQUAL PARTS FIZZY & FUN",
+        "backgroundColor": "#e4a818",
+        "cardColor": "#d23d2d",
+        "textColor": "#FFFFFF"
+    },
+    {
+        "name": "Brooklyn Shackmeister Ale",
+        "slogan": "ORDER UP",
+        "backgroundColor": "#5B9E46",
+        "cardColor": "#161617",
+        "textColor": "#FEFEFE"
+    },
+    {
+        "name": "Brooklyn Blast!",
+        "slogan": "GET LOUD",
+        "backgroundColor": "#d5d5d4",
+        "cardColor": "#d14042",
+        "textColor": "#d4d4d4"
+    },
+    {
+        "name": "Refraction",
+        "slogan": "FROM WEST TO EAST",
+        "backgroundColor": "#1c174e",
+        "cardColor": "#b93055",
+        "textColor": "#ffffff"
+    },
+    {
+        "name": "Brooklyn To Tokyo Yuzu Sour",
+        "slogan": "NONSTOP CITRUS",
+        "backgroundColor": "#18251D",
+        "cardColor": "#2F9065",
+        "textColor": "#FEFEFE"
+    },
+    {
+        "name": "Black Is Beautiful",
+        "slogan": "BEER IS FOR EVERYONE",
+        "backgroundColor": "#6D442F",
+        "cardColor": "#000000",
+        "textColor": "#FEFEFE"
+    },
+    {
+        "name": "Black Chocolate Stout with Toasted Coconut",
+        "slogan": "A LUXURIOUS TAKE ON THE LEGEND",
+        "backgroundColor": "#000000",
+        "cardColor": "#C09E59",
+        "textColor": "#000000"
+    },
+    {
+        "name": "Butterfly Photobomb",
+        "slogan": "BELIEVE YOUR EYES",
+        "backgroundColor": "#64bbcc",
+        "cardColor": "#E79B16",
+        "textColor": "#674698"
+    },
+    {
+        "name": "Brooklyn Palenque",
+        "slogan": "GO TROPICAL WITH US",
+        "backgroundColor": "#c8de3f",
+        "cardColor": "#639363",
+        "textColor": "#FEFEFE"
+    },
+    {
+        "name": "Total Request IPA",
+        "slogan": "CHART TOPPINGS & CAN POPPING",
+        "backgroundColor": "#dc1e77",
+        "cardColor": "#ffffff",
+        "textColor": "#dc1e77"
+    },
+    {
+        "name": "Brooklyn Halfling",
+        "slogan": "YOUR QUEST FOR A SESSION PILSNER HAS ENDED",
+        "backgroundColor": "#10338d",
+        "cardColor": "#2c2e35",
+        "textColor": "#ffffff"
+    },
+    {
+        "name": "Brooklyn Capataz",
+        "slogan": "AGED IN HOUSE OF LUSTAU SHERRY BARRELS",
+        "backgroundColor": "#4E7644",
+        "cardColor": "#A8B893",
+        "textColor": "#0C3B6F"
+    },
+    {
+        "name": "Brooklyn Brown Ale",
+        "slogan": "OUR LEGENDARY AMERICAN BROWN ALE",
+        "backgroundColor": "#360E00",
+        "cardColor": "#E13726",
+        "textColor": "#FFFFFF"
+    }
+]
