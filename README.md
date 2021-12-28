@@ -6,6 +6,8 @@
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+https://brooklynbrewerybeerslogans.netlify.app/
+
 A interactive slogans react app.
 
 ![image](./img/img1.PNG)
