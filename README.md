@@ -9,11 +9,8 @@
 A interactive slogans react app.
 
 ![image](./img/img1.PNG)
-
 ![image](./img/img2.PNG)
-
 ![image](./img/img3.PNG)
-
 ![image](./img/img4.PNG)
 
 ## Technologies Used
